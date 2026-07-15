@@ -1,6 +1,6 @@
 cask "moler" do
   version "0.1.0"
-  sha256 :no_check
+  sha256 "261b9bafb78c0597742572af168be648939065c7343cacef129152d4b11e0484"
 
   url "https://github.com/niyongsheng/moler/releases/latest/download/Moler.dmg"
   name "Moler"
